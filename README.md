@@ -93,6 +93,11 @@ Pull requests are welcome. Star the repo and join us on [Discord](https://discor
 
 ---
 
+## 📚 Documentation
+
+- See the full docs: [docs/README.md](./docs/README.md)
+- Highlights: [Overview](./docs/overview.md), [Setup](./docs/setup.md), [Configuration](./docs/configuration.md), [Commands](./docs/commands.md), [Architecture](./docs/architecture.md), [Webview](./docs/webview.md)
+
 ## 🔗 Links
 
 - 🌐 Website: [https://superdesign.dev/ide-extension](https://superdesign.dev/ide-extension)
